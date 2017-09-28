@@ -1,0 +1,28 @@
+.logo {
+	width: 50px;
+	/*color: #fff;*/
+	height: auto;
+	margin-left: 150px;
+}
+.logo-typeface {
+	font-size: .9em;
+	font-weight: bold;
+	margin-left: 150px;
+}
+
+.top-bar {
+	background: #fff;
+	border-bottom: 1px solid #C1C3C3;
+	margin-bottom: 30px;
+}
+.top-bar, .top-bar ul {
+	background: #fff;
+}
+.top-bar, .top-bar ul a {
+	font-size: 1em;
+	margin-right: 20px;
+	color: #484848;
+	margin-top: 30px;
+	position: relative;
+	/*top: 30px;*/
+}
